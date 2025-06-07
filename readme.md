@@ -1,6 +1,6 @@
 # 🚀 CodePad – Online Code Editor with Extended Features
 
-### 🔗 **[Live Demo](https://codepad-qwpz.onrender.com/)**
+### 🔗 **[Live Demo](https://code-pad-zeta.vercel.app/)**
 
 CodoFile is an advanced web-based code editor that allows users to write and execute code in **JavaScript**, **Python**. Along with coding, it also provides utility tools like:
 
@@ -63,7 +63,7 @@ npm install
 # Frontend setup
 cd frontend
 npm install
-npm i gsap
+npm i 
 
 # Backend setup
 cd ../backend
